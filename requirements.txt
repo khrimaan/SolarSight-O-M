@@ -1,0 +1,22 @@
+# Core AI Orchestration
+llama-index
+llama-index-multi-modal-llms-gemini
+llama-index-embeddings-clip
+
+# LLM & Embeddings
+google-generativeai
+transformers
+torch
+torchvision
+
+# Vector Database & Storage
+pinecone-client
+chromadb
+
+# Data Processing
+pypdf
+Pillow
+
+# UI & Deployment
+streamlit
+python-dotenv
